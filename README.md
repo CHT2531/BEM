@@ -1,7 +1,7 @@
 # Thinking About BEM
 A really widely used technique to improve the maintainability of CSS is the BEM naming convention. Before attempting the following please familiarise yourself with BEM - http://getbem.com/introduction/.
 
-To practice these ideas have a look at the image *[example.png](example.png)* or visit the actual page. 
+To practice these ideas have a look at https://courses.hud.ac.uk/2021-22/full-time/undergraduate/web-design-bsc-hons.  
 
 Think about the type of class names you would have in the CSS for this page if you used BEM. Try to identify which parts of the UI would be blocks, which parts would be elements, and how you would use modifiers.
 
